@@ -73,7 +73,7 @@ $('#no').click(() => {
 // generate text in input
 function textGenerate() {
     var n = "";
-    var text = " Tại vì cậu ấm áp hehe :<<<<<<< ";
+    var text = " Tại vì cậu cuteeeeeee hehe :>>>>>>>>> ";
     var a = Array.from(text);
     var textVal = $('#txtReason').val() ? $('#txtReason').val() : "";
     var count = textVal.length;
@@ -121,11 +121,11 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Tớ biết mà ^^ Yêu cậu 300.000',
+                title: 'Tớ biết mà ^^ Yêu cậu 3000 :33333',
                 text: "Còn chờ gì nữa mà không inbox cho tớ đi nào hehe :))))",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/thang.dz.227';
+                    window.location = 'https://www.facebook.com/khoa.phamdang.587/';
                   }
             })
         }
